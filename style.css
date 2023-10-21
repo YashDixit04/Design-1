@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -94,13 +97,13 @@ body {
 }
 
 .normal {
-    font-family: "Plus Jakarta Sans", sans-serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 5vmax;
     line-height: 70%;
 }
 
 .fancy {
-    font-family: "Melodrama", serif;
+    font-family: 'Brygada 1918', serif;
     font-style: italic;
     padding: 0px 5px;
     line-height: 70%;
